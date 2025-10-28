@@ -16,3 +16,5 @@ var a = 10; //declare and initialize(first value assign)
 //aap firse declare kr skte ho same name se and error nahi aayega  
 
 //Scope (global,block,functional)
+
+// abc
