@@ -7,6 +7,7 @@ A complete structured guide for **JavaScript Interview Preparation**
 
 ---
 
+
 ## 📚 Resources to Follow
 
 [JavaScript Full Course | JavaScript - Learn Everything | Sheryians Coding School](https://www.youtube.com/watch?si=08QdNT4DjDgLAAPb&v=a-wVHL0lpb0&feature=youtu.be)
